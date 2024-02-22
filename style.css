@@ -3,6 +3,7 @@ body {
     height: 100%;
 }
 
+
 .merriweather-regular {
     font-family: "Merriweather", serif;
     font-weight: 400;
@@ -26,7 +27,12 @@ body {
     font-weight: 900;
     font-style: normal;
   }
-
+:root {
+    --first-color: #332b2c;
+    --sec-color:  #5c5a5a;
+    --third-color:#CFD2CD;
+    --acc-color: #E5E6E4;
+}
 
 .first {
     color: #332b2c;
